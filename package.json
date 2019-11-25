@@ -1,13 +1,14 @@
 {
-    "name": "lib-name",
+    "name": "workflows",
     "version": "0.0.0",
-    "description": "Lib Description",
+    "description": "WIP define workflows you use often",
     "main": "index.js",
     "types": "index.d.ts",
     "license": "MIT",
     "devDependencies": {
         "@types/jest": "^24.0.17",
         "jest": "^24.8.0",
+        "logger-mock": "^1.0.0",
         "np": "^5.0.3",
         "tsd": "^0.7.3",
         "xo": "^0.24.0"
@@ -32,7 +33,7 @@
         "url": "https://github.com/niktekusho/"
     },
     "bugs": {
-        "url": "https://github.com/niktekusho/lib-name/issues"
+        "url": "https://github.com/niktekusho/workflows/issues"
     },
     "contributors": [
         {
@@ -40,9 +41,9 @@
             "url": "https://github.com/niktekusho/"
         }
     ],
-    "homepage": "https://github.com/niktekusho/lib-name#readme",
+    "homepage": "https://github.com/niktekusho/workflows#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/niktekusho/lib-name.git"
+        "url": "git+https://github.com/niktekusho/workflows.git"
     }
 }

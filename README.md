@@ -1,8 +1,8 @@
-# lib-name
+# workflows
 
-<!-- ![](https://img.shields.io/github/license/niktekusho/lib-name.svg) [![](https://img.shields.io/npm/v/lib-name.svg)](https://www.npmjs.com/package/lib-name) [![Build Status](https://travis-ci.org/niktekusho/lib-name.svg?branch=master)](https://travis-ci.org/niktekusho/lib-name) [![](https://img.shields.io/node/v/lib-name.svg)](https://www.npmjs.com/package/lib-name) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) [![Maintainability](https://api.codeclimate.com/v1/badges/744538fb7227c1a86bea/maintainability)](https://codeclimate.com/github/niktekusho/lib-name/maintainability) [![](https://img.shields.io/bundlephobia/minzip/lib-name.svg)](https://bundlephobia.com/result?p=lib-name) -->
+<!-- ![](https://img.shields.io/github/license/niktekusho/workflows.svg) [![](https://img.shields.io/npm/v/workflows.svg)](https://www.npmjs.com/package/workflows) [![Build Status](https://travis-ci.org/niktekusho/workflows.svg?branch=master)](https://travis-ci.org/niktekusho/workflows) [![](https://img.shields.io/node/v/workflows.svg)](https://www.npmjs.com/package/workflows) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) [![Maintainability](https://api.codeclimate.com/v1/badges/744538fb7227c1a86bea/maintainability)](https://codeclimate.com/github/niktekusho/workflows/maintainability) [![](https://img.shields.io/bundlephobia/minzip/workflows.svg)](https://bundlephobia.com/result?p=workflows) -->
 
-> Lib Description
+> WIP define workflows you use often
 
 ## Installation
 
@@ -11,13 +11,13 @@
 In your console, run the following command:
 
 ```sh
-$ npm install lib-name
+$ npm install workflows
 ```
 
 You can also use `yarn` (like we do in this project):
 
 ```sh
-$ yarn add lib-name
+$ yarn add workflows
 ```
 
 ## Usage
@@ -32,4 +32,4 @@ You can find usage examples in the [examples](examples/) directory.
 
 ## Related
 
-<!-- -   [CLI application](https://github.com/niktekusho/lib-name-cli). -->
+<!-- -   [CLI application](https://github.com/niktekusho/workflows-cli). -->
